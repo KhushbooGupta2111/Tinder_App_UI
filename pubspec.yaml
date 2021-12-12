@@ -15,6 +15,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  swipe_cards: ^0.1.0
 
   cupertino_icons: ^1.0.2
 
